@@ -1,0 +1,31 @@
+faculty_id,name,subject,section,no_of_students
+2018,"David, Marc Allen",ITE201,CS1,40
+2018,"David, Marc Allen",ITE201,CS2,40
+2018,"David, Marc Allen",ITE201,CS3,40
+2018,"David, Marc Allen",SE301,CS1,40
+2018,"David, Marc Allen",SE301,CS2,40
+2018,"David, Marc Allen",SE301,CS3,40
+2019,"Baylon, Vincent",PE101,IT1,40
+2019,"Baylon, Vincent",PE101,IT2,40
+2019,"Baylon, Vincent",PE101,IT3,40
+2019,"Baylon, Vincent",PE101,IT4,40
+2019,"Baylon, Vincent",PE101,IT5,40
+2019,"Baylon, Vincent",PE101,IT6,40
+2019,"Baylon, Vincent",PE101,IT7,40
+2019,"Baylon, Vincent",PE101,IT8,40
+2020,"Adriatico, Bob",PROG101,IT1,40
+2020,"Adriatico, Bob",PROG101,IT2,40
+2020,"Adriatico, Bob",PROG101,IT3,40
+2020,"Adriatico, Bob",PROG101,IT4,40
+2020,"Adriatico, Bob",PROG101,IT5,40
+2020,"Adriatico, Bob",PROG101,IT6,40
+2020,"Adriatico, Bob",PROG101,IT7,40
+2020,"Adriatico, Bob",PROG101,IT8,40
+2021,"Paner, Derrick",PROG201,CS1,40
+2021,"Paner, Derrick",PROG201,CS2,40
+2021,"Paner, Derrick",PROG201,CS3,40
+2021,"Paner, Derrick",PROG201,CS4,40
+2021,"Paner, Derrick",PROG201,CS5,40
+2021,"Paner, Derrick",PROG201,CS6,40
+2021,"Paner, Derrick",PROG201,CS7,40
+2021,"Paner, Derrick",PROG201,CS8,40

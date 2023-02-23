@@ -1,0 +1,5 @@
+faculty_id,name,day,from_time,to_time,status
+2018,"David, Marc Allen","M,T,W,TH,F,S",8:00:00,19:00:00,FULL TIME
+2019,"Baylon, Vincent","M,T,W,TH,F,S",8:00:00,19:00:00,PART TIME
+2020,"Adriatico, Bob","M,T,W,TH,F,S",8:00:00,19:00:00,PART TIME
+2021,"Paner, Derrick","M,T,W,TH,F,S",8:00:00,19:00:00,PART TIME

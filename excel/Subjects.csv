@@ -1,0 +1,9 @@
+subject,course_title,room,unit,hr_wk,day_wk
+PE101,Physical Education 1,LECTURE,3,3,2
+PROG101,Fundamentals of Programming 1,LECTURE,3,2,1
+PROG101,Fundamentals of Programming 1,COMLAB,3,3,1
+SE301,Software Engineering,LECTURE,3,3,1
+SE301,Software Engineering,COMLAB,3,3,1
+ITE201,ITE,LECTURE,3,3,2
+PROG201,Fundamentals of Programming 2,LECTURE,3,2,1
+PROG201,Fundamentals of Programming 2,COMLAB,3,3,1
